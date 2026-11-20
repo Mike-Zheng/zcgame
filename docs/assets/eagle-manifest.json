@@ -1,0 +1,929 @@
+{
+  "note": "Assets pulled from local Eagle library via http://localhost:41595 API. All Kenney assets are CC0 (https://kenney.nl).",
+  "items": [
+    {
+      "file": "assets/kenney/tree-shrub.glb",
+      "eagleId": "MW02CRYAGFFOR",
+      "pack": [
+        "Retro Urban Kit"
+      ],
+      "source": "https://kenney.nl/assets/retro-urban-kit"
+    },
+    {
+      "file": "assets/kenney/road-asphalt-straight.glb",
+      "eagleId": "MW02CRY6DHQGG",
+      "pack": [
+        "Retro Urban Kit"
+      ],
+      "source": "https://kenney.nl/assets/retro-urban-kit"
+    },
+    {
+      "file": "assets/kenney/road-asphalt-corner.glb",
+      "eagleId": "MW02CRY6NQHGG",
+      "pack": [
+        "Retro Urban Kit"
+      ],
+      "source": "https://kenney.nl/assets/retro-urban-kit"
+    },
+    {
+      "file": "assets/kenney/planks.glb",
+      "eagleId": "MW02CRY5SUCTC",
+      "pack": [
+        "Retro Urban Kit"
+      ],
+      "source": "https://kenney.nl/assets/retro-urban-kit"
+    },
+    {
+      "file": "assets/icons/icon_steering_wheel.png",
+      "eagleId": "MW02AOIZNSB2K",
+      "pack": [
+        "Mobile Controls",
+        "Sprites",
+        "Icons",
+        "Large (2×)",
+        "96x96"
+      ],
+      "source": "https://kenney.nl/assets/mobile-controls"
+    },
+    {
+      "file": "assets/icons/icon_sound_disabled.png",
+      "eagleId": "MW02AOIZWNKLO",
+      "pack": [
+        "Mobile Controls",
+        "Sprites",
+        "Icons",
+        "Large (2×)",
+        "96x96"
+      ],
+      "source": "https://kenney.nl/assets/mobile-controls"
+    },
+    {
+      "file": "assets/icons/icon_sound.png",
+      "eagleId": "MW02AOIZE87JK",
+      "pack": [
+        "Mobile Controls",
+        "Sprites",
+        "Icons",
+        "Large (2×)",
+        "96x96"
+      ],
+      "source": "https://kenney.nl/assets/mobile-controls"
+    },
+    {
+      "file": "assets/icons/icon_play.png",
+      "eagleId": "MW02AOIXYA8TW",
+      "pack": [
+        "Mobile Controls",
+        "Sprites",
+        "Icons",
+        "Large (2×)",
+        "96x96"
+      ],
+      "source": "https://kenney.nl/assets/mobile-controls"
+    },
+    {
+      "file": "assets/icons/icon_pause.png",
+      "eagleId": "MW02AOIXIMEAO",
+      "pack": [
+        "Mobile Controls",
+        "Sprites",
+        "Icons",
+        "Large (2×)",
+        "96x96"
+      ],
+      "source": "https://kenney.nl/assets/mobile-controls"
+    },
+    {
+      "file": "assets/icons/icon_music.png",
+      "eagleId": "MW02AOIXQGZA9",
+      "pack": [
+        "Mobile Controls",
+        "Sprites",
+        "Icons",
+        "Large (2×)",
+        "96x96"
+      ],
+      "source": "https://kenney.nl/assets/mobile-controls"
+    },
+    {
+      "file": "assets/icons/icon_music_disabled.png",
+      "eagleId": "MW02AOIXLYRI1",
+      "pack": [
+        "Mobile Controls",
+        "Sprites",
+        "Icons",
+        "Large (2×)",
+        "96x96"
+      ],
+      "source": "https://kenney.nl/assets/mobile-controls"
+    },
+    {
+      "file": "assets/icons/icon_arrow_rotate.png",
+      "eagleId": "MW02AOISPD6E1",
+      "pack": [
+        "Mobile Controls",
+        "Sprites",
+        "Icons",
+        "Large (2×)",
+        "96x96"
+      ],
+      "source": "https://kenney.nl/assets/mobile-controls"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-1x1.glb",
+      "eagleId": "MW01N7A3UHUGM",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-1x1-round.glb",
+      "eagleId": "MW01N7A3E5T4Z",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-1x2.glb",
+      "eagleId": "MW01N7A4BIG97",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-1x4.glb",
+      "eagleId": "MW01N7A4PX8ZS",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-2x2.glb",
+      "eagleId": "MW01N7A4R3A3L",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-2x4.glb",
+      "eagleId": "MW01N7A4Q00DZ",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-2x6.glb",
+      "eagleId": "MW01N7A5K7CT6",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-2x8.glb",
+      "eagleId": "MW01N7A52D265",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-corner.glb",
+      "eagleId": "MW01N7A54M9RS",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-slope-2x2.glb",
+      "eagleId": "MW01N7A5L372B",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-slope-2x4.glb",
+      "eagleId": "MW01N7A6P4DU9",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-brick-slope-inverted-2x2.glb",
+      "eagleId": "MW01N7AUMQ0BS",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-plate-2x2.glb",
+      "eagleId": "MW01N7AVCB9LV",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/bricks/round-lq-plate-2x4.glb",
+      "eagleId": "MW01N7AV18M3I",
+      "pack": [
+        "Brick Kit"
+      ],
+      "source": "https://kenney.nl/assets/brick-kit"
+    },
+    {
+      "file": "assets/kenney/track-narrow-straight.glb",
+      "eagleId": "MW0256OEFUXE6",
+      "pack": [
+        "Toy Car Kit"
+      ],
+      "source": "https://kenney.nl/assets/toy-car-kit"
+    },
+    {
+      "file": "assets/kenney/supports.glb",
+      "eagleId": "MW0256O9BGGBQ",
+      "pack": [
+        "Toy Car Kit"
+      ],
+      "source": "https://kenney.nl/assets/toy-car-kit"
+    },
+    {
+      "file": "assets/kenney/gate-finish.glb",
+      "eagleId": "MW0256O6UOTYX",
+      "pack": [
+        "Toy Car Kit"
+      ],
+      "source": "https://kenney.nl/assets/toy-car-kit"
+    },
+    {
+      "file": "assets/kenney/item-cone.glb",
+      "eagleId": "MW0256O862SDF",
+      "pack": [
+        "Toy Car Kit"
+      ],
+      "source": "https://kenney.nl/assets/toy-car-kit"
+    },
+    {
+      "file": "assets/icons/input/keyboard_1.png",
+      "eagleId": "MW029ZF9NPPDK",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_2.png",
+      "eagleId": "MW029ZF94ANAC",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_3.png",
+      "eagleId": "MW029ZFAU0L6G",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_a.png",
+      "eagleId": "MW029ZFD5LL0Q",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_arrow_down.png",
+      "eagleId": "MW029ZFE3VW1Y",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_arrow_left.png",
+      "eagleId": "MW029ZFF5XIUP",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_arrow_right.png",
+      "eagleId": "MW029ZFFPU6XJ",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_arrow_up.png",
+      "eagleId": "MW029ZFFSREYV",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_c.png",
+      "eagleId": "MW029ZFO1FSDY",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_ctrl.png",
+      "eagleId": "MW029ZFR8186H",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_d.png",
+      "eagleId": "MW029ZFSG8RBC",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_e.png",
+      "eagleId": "MW029ZFSNZ68S",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_enter.png",
+      "eagleId": "MW029ZFT6AE7H",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_escape.png",
+      "eagleId": "MW029ZFU1H81I",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_f.png",
+      "eagleId": "MW029ZFVTUF4P",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_g.png",
+      "eagleId": "MW029ZG1800R0",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_m.png",
+      "eagleId": "MW029ZG4GXFEQ",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_o.png",
+      "eagleId": "MW029ZG7U9DAP",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_q.png",
+      "eagleId": "MW029ZGCYMR10",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_r.png",
+      "eagleId": "MW029ZGDR68RD",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_s.png",
+      "eagleId": "MW029ZGER0ZG4",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_shift.png",
+      "eagleId": "MW029ZGF60LFV",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_space.png",
+      "eagleId": "MW029ZIGEQL4B",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_t.png",
+      "eagleId": "MW029ZIHCPHOL",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_v.png",
+      "eagleId": "MW029ZIKH88GF",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_w.png",
+      "eagleId": "MW029ZIKRT78C",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/keyboard_x.png",
+      "eagleId": "MW029ZIL780F4",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/mouse_left.png",
+      "eagleId": "MW029ZIOQJRT4",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_button_a.png",
+      "eagleId": "MW02A9FU9C9HC",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_button_b.png",
+      "eagleId": "MW02A9FV2T1FC",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_button_menu.png",
+      "eagleId": "MW02A9G0AGG0V",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_button_view.png",
+      "eagleId": "MW02A9G4KBY6Q",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_button_x.png",
+      "eagleId": "MW02A9G46K5Q5",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_button_y.png",
+      "eagleId": "MW02A9G5Q9J4U",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_dpad_left.png",
+      "eagleId": "MW02A9G9U4ZY4",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_dpad_right.png",
+      "eagleId": "MW02A9GBYY25W",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_lb.png",
+      "eagleId": "MW02A9GI0WZFB",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_lt.png",
+      "eagleId": "MW02A9GJZVWUH",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_rb.png",
+      "eagleId": "MW02A9GKKLMP2",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_rt.png",
+      "eagleId": "MW02A9GLJE3NZ",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_stick_l.png",
+      "eagleId": "MW02A9GMP4MOW",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/icon_cog.png",
+      "eagleId": "MW02AOIUPS7XH",
+      "pack": [
+        "Mobile Controls",
+        "Sprites",
+        "Icons",
+        "Large (2×)",
+        "96x96"
+      ],
+      "source": "https://kenney.nl/assets/mobile-controls"
+    },
+    {
+      "file": "assets/icons/cursor/pointer.png",
+      "eagleId": "MW02AJEIIU9JQ",
+      "pack": [
+        "Cursor Pack",
+        "Outline",
+        "32x32",
+        "pointer_c.png"
+      ],
+      "source": "https://kenney.nl/assets/cursor-pack"
+    },
+    {
+      "file": "assets/icons/cursor/hand_point.png",
+      "eagleId": "MW02AJE9CQ72W",
+      "pack": [
+        "Cursor Pack",
+        "Outline",
+        "32x32",
+        "hand_point.png"
+      ],
+      "source": "https://kenney.nl/assets/cursor-pack"
+    },
+    {
+      "file": "assets/splash/car_red_1.png",
+      "eagleId": "MW01M2XB1YP08",
+      "pack": [
+        "Racing Pack",
+        "Cars",
+        "car_red_1.png"
+      ],
+      "source": "https://kenney.nl/assets/racing-pack"
+    },
+    {
+      "file": "assets/splash/car_yellow_1.png",
+      "eagleId": "MW01M2XDI1NQ2",
+      "pack": [
+        "Racing Pack",
+        "Cars",
+        "car_yellow_1.png"
+      ],
+      "source": "https://kenney.nl/assets/racing-pack"
+    },
+    {
+      "file": "assets/splash/cone_straight.png",
+      "eagleId": "MW01M3X67FPD8",
+      "pack": [
+        "Racing Pack",
+        "Objects",
+        "cone_straight.png"
+      ],
+      "source": "https://kenney.nl/assets/racing-pack"
+    },
+    {
+      "file": "assets/splash/stripes.png",
+      "eagleId": "MW01L2QGK4JUQ",
+      "pack": [
+        "Pattern Pack",
+        "Double",
+        "pattern_02.png"
+      ],
+      "source": "https://kenney.nl/assets/pattern-pack"
+    },
+    {
+      "file": "assets/splash/checker.png",
+      "eagleId": "MW01L2QKEPZK7",
+      "pack": [
+        "Pattern Pack",
+        "Double",
+        "pattern_16.png"
+      ],
+      "source": "https://kenney.nl/assets/pattern-pack"
+    },
+    {
+      "file": "assets/icons/input/mouse_move.png",
+      "eagleId": "MW029ZIO3AK6C",
+      "pack": [
+        "Input Prompts",
+        "Keyboard & Mouse",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "assets/icons/input/xbox_stick_r.png",
+      "eagleId": "MW02A9GOMHJC5",
+      "pack": [
+        "Input Prompts",
+        "Xbox Series",
+        "Double",
+        "128x128"
+      ],
+      "source": "https://kenney.nl/assets/input-prompts"
+    },
+    {
+      "file": "props/elements/toothbrush.glb",
+      "eagleId": "MW01Q5F316K3O",
+      "pack": [
+        "Food Kit",
+        "cooking-spatula.glb"
+      ],
+      "source": "https://kenney.nl/assets/food-kit"
+    },
+    {
+      "file": "assets/icons/elements/toothbrush.png",
+      "eagleId": "MW01JZ2WFA9EQ",
+      "pack": [
+        "Generic Items",
+        "Colored",
+        "genericItem_color_095.png"
+      ],
+      "source": "https://kenney.nl/assets/generic-items"
+    },
+    {
+      "file": "props/elements/spoon.glb",
+      "eagleId": "MW01Q5FTDJ68M",
+      "pack": [
+        "Food Kit",
+        "utensil-spoon.glb"
+      ],
+      "source": "https://kenney.nl/assets/food-kit"
+    },
+    {
+      "file": "props/elements/cup.glb",
+      "eagleId": "MW01Q5F9N70KC",
+      "pack": [
+        "Food Kit",
+        "glass.glb"
+      ],
+      "source": "https://kenney.nl/assets/food-kit"
+    },
+    {
+      "file": "assets/icons/elements/rattle.png",
+      "eagleId": "MW01JZ38EA59A",
+      "pack": [
+        "Generic Items",
+        "Colored",
+        "genericItem_color_152.png"
+      ],
+      "source": "https://kenney.nl/assets/generic-items"
+    },
+    {
+      "file": "assets/icons/elements/spoon.png",
+      "eagleId": "MW01JZ33OHPF8",
+      "pack": [
+        "Generic Items",
+        "Colored",
+        "genericItem_color_130.png"
+      ],
+      "source": "https://kenney.nl/assets/generic-items"
+    },
+    {
+      "file": "assets/icons/elements/cup.png",
+      "eagleId": "MW01JZ31MVTZN",
+      "pack": [
+        "Generic Items",
+        "Colored",
+        "genericItem_color_118.png"
+      ],
+      "source": "https://kenney.nl/assets/generic-items"
+    },
+    {
+      "file": "props/elements/sock.glb",
+      "eagleId": "MW01SMIW51BCK",
+      "pack": [
+        "Holiday Kit",
+        "sock-red.glb"
+      ],
+      "source": "https://kenney.nl/assets/holiday-kit"
+    },
+    {
+      "file": "props/elements/duck.glb",
+      "eagleId": "MW01OHLD03YU1",
+      "pack": [
+        "Cube Pets",
+        "animal-chick.glb"
+      ],
+      "source": "https://kenney.nl/assets/cube-pets"
+    },
+    {
+      "file": "assets/icons/elements/duck.png",
+      "eagleId": "MW01MHO2EDGR5",
+      "pack": [
+        "Shooting Gallery",
+        "Objects",
+        "duck_yellow.png"
+      ],
+      "source": "https://kenney.nl/assets/shooting-gallery"
+    }
+  ]
+}
