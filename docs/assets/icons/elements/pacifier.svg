@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><!-- 奶嘴（勾狗關武器欄圖示；程式手寫，無外部授權） -->
-<circle cx="50" cy="50" r="46" fill="#ff8fc7" opacity="0.35"/>
-<circle cx="50" cy="24" r="14" fill="none" stroke="#ff4f9a" stroke-width="8"/>
-<ellipse cx="50" cy="52" rx="34" ry="16" fill="#ff7ab8" stroke="#7a1f48" stroke-width="5"/>
-<circle cx="36" cy="52" r="4" fill="#fff4d6"/><circle cx="64" cy="52" r="4" fill="#fff4d6"/>
-<path d="M40 64 Q38 90 50 92 Q62 90 60 64 Z" fill="#fff0c8" stroke="#7a1f48" stroke-width="5" stroke-linejoin="round"/>
-</svg>

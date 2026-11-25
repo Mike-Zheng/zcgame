@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><!-- 圍兜（勾狗關武器欄圖示；程式手寫，無外部授權） -->
-<path d="M30 12 Q50 34 70 12 Q86 14 88 30 Q90 74 70 88 Q50 98 30 88 Q10 74 12 30 Q14 14 30 12 Z" fill="#7fc8ff" stroke="#1d3a5c" stroke-width="5" stroke-linejoin="round"/>
-<path d="M22 70 Q50 86 78 70" fill="none" stroke="#fff4d6" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 8"/>
-<path d="M50 45 l5 10 11 1 -8 7 3 11 -11 -6 -11 6 3 -11 -8 -7 11 -1 Z" fill="#ffd23f" stroke="#1d3a5c" stroke-width="3" stroke-linejoin="round"/>
-<path d="M30 12 Q24 4 16 8 M70 12 Q76 4 84 8" fill="none" stroke="#1d3a5c" stroke-width="5" stroke-linecap="round"/>
-</svg>
